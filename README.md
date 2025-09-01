@@ -4,6 +4,12 @@
 
 Acute anger and frustration can strike anyone, anywhere, making it hard to reset and refocus. This web-based tool delivers a fast, free, judgment-free “2-minute calm down” session designed for everyone—offering soothing visual guidance, supportive text, and a gentle, witty touch. The service is immediate, accessible, and intentionally neutral, focusing on rapid relief and self-regulation rather than escapism.
 
+## Prototypes
+
+* [lovable](https://quick-pause-play.lovable.app)
+* [bolt](https://2-minute-anger-manag-jlge.bolt.host)
+* [v0]()
+
 ---
 
 ## Goals
